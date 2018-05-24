@@ -1,0 +1,30 @@
+{
+    "system": [
+        {
+            "Type": "Loader",
+            "Name": "Loader.exe",
+            "Checksum": "6c6be401d8ee5232f4e739024af1fe7b",
+            "DownloadLink": "https://github.com/nicole27313864/GoElites.System/raw/master/system/Loader.exe"
+        },
+        {
+            "Type": "Loader",
+            "Name": "Wrapper.dll",
+            "Checksum": "a4e60786c01f3d6e9bda3686adb0bcde",
+            "DownloadLink": "https://github.com/nicole27313864/GoElites.System/raw/master/system/Wrapper.dll"
+        }
+    ],
+    "core": [
+		{
+            "Type": "Riot",
+            "Name": "8.8",
+            "Checksum": "60277a77f64b5db6db26656a0a914142",
+            "DownloadLink": "https://github.com/nicole27313864/GoElites.System/raw/master/core/8.8/Core.dll"
+        },
+		{
+            "Type": "Riot",
+            "Name": "8.10",
+            "Checksum": "60277a77f64b5db6db26656a0a906062",
+            "DownloadLink": "https://github.com/nicole27313864/GoElites.System/raw/master/core/8.10/Core.dll"
+        }
+    ]
+}
